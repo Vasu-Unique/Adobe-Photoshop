@@ -25,8 +25,8 @@ To get started with the poster design process, I followed these steps:
 If you would like to use or modify the poster designs, feel free to do so for personal or commercial purposes. However, attribution to the original creator (me) is appreciated.
 
 ## Clients
-<img src="images/1.jpg" alt="Alt Text" width="300">&nbsp; &nbsp;<img src="images/1.jpg" alt="Alt Text" width="300">
-&nbsp;&nbsp;<img src="images/1.jpg" alt="Alt Text" width="300">
+<img src="images/1.jpg" alt="Alt Text" width="250">&nbsp; &nbsp;<img src="images/1.jpg" alt="Alt Text" width="250">
+&nbsp;&nbsp;<img src="images/1.jpg" alt="Alt Text" width="250">
 <img src="images/1.jpg" alt="Alt Text" width="300">
 <img src="images/1.jpg" alt="Alt Text" width="300">
 <img src="images/1.jpg" alt="Alt Text" width="300">
