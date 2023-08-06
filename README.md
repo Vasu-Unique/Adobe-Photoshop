@@ -25,32 +25,29 @@ To get started with the poster design process, I followed these steps:
 If you would like to use or modify the poster designs, feel free to do so for personal or commercial purposes. However, attribution to the original creator (me) is appreciated.
 
 ## Clients
-<img src="images/1.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/1.jpg" alt="Alt Text" width="267">
-&nbsp;&nbsp;<img src="images/1.jpg" alt="Alt Text" width="267">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
-<img src="images/1.jpg" alt="Alt Text" width="300">
+<img src="images/1 (2).jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/1.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/1 copy.jpg" alt="Alt Text" width="267">
+<img src="images/1 .jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/2 (2).jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/2 (3).jpg" alt="Alt Text" width="267">
+<img src="images/2 (4).jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/2 copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/3 (2).jpg" alt="Alt Text" width="267">
+<img src="images/3 .jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/3 copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/3.jpg" alt="Alt Text" width="267">
+<img src="images/4 (2).jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/4 copy (2).jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/4 copy.jpg" alt="Alt Text" width="267">
+<img src="images/4.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/5 copy (2).jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/5 copy.jpg" alt="Alt Text" width="267">
+<img src="images/5.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/6 copy (2).jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/6 copy.jpg" alt="Alt Text" width="267">
+<img src="images/6.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/7 copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/7.jpg" alt="Alt Text" width="267">
+<img src="images/8 copy.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/8.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/9 copy.jpg" alt="Alt Text" width="267">
+<img src="images/10 copy.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/10discount.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/Anyone wants Briyani.jpg" alt="Alt Text" width="267">
+<img src="images/Are you ready.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Best Briyani in the Town.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/Biryani is a emotion!.jpg" alt="Alt Text" width="267">
+<img src="images/Biryani is my comfort food 1.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Biryani is my comfort food copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/Biryani is my comfort food.jpg" alt="Alt Text" width="267">
+<img src="images/briyani 3.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/briyani 4.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/BRIYANI 5.jpg" alt="Alt Text" width="267">
+<img src="images/briyani 6.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/briyani rollup.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/Briyani.jpg" alt="Alt Text" width="267">
+<img src="images/bryani 10 blue copy.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/christmas RBB 1.jpg" alt="Alt Text" width="267">
+<img src="images/Delicious RBB.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Don't Worry.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/Full plate briyani is the solution to every problem.jpg" alt="Alt Text" width="267">
+<img src="images/Pre-Order Now copy.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/RBB christmas.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/  RBB New Year 2023.jpg" alt="Alt Text" width="267">
+<img src="images/sunday special (2).jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Sunday Special copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/sunday special.jpg" alt="Alt Text" width="267">
+<img src="images/Super Fast Delivery.jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Thankgiving.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/weekend special (2).jpg" alt="Alt Text" width="267">
+<img src="images/Weekend Special (3).jpg" alt="Alt Text" width="267">&nbsp; &nbsp;<img src="images/Weekend Special 1 copy.jpg" alt="Alt Text" width="267">&nbsp;&nbsp;<img src="images/weekend special.jpg" alt="Alt Text" width="267">
+
+
+
 
 
 
