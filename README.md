@@ -1,4 +1,4 @@
-# Poster Design for Company (Freelancer)
+# Poster Design (Freelancer)
 
 This repository contains the source files and assets for the posters designed for a company as a freelance designer. The purpose of this project was to create visually appealing and effective posters that promote the company's products, services, events, or brand message.
 
